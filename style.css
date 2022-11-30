@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+h2{
+
+    color:green
+}
+h3{
+color:brown
+}
+p{
+    color:red;
+}
+b{
+    color: palevioletred;
+}
+pre{
+    color: aliceblue;
+}
+hr{
+    color: aliceblue;
+}
